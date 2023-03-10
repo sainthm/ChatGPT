@@ -18,6 +18,8 @@
 
 <br>
 
-SQL Server 버전에는 Standard, Enterprise, 및 Express 등이 있습니다. 이 버전 간의 주요 차이점은 데이터베이스 크기, 높은 가용성 및 보안 기능, 분석 및 비즈니스 인텔리전스 기능 등에 있습니다. Enterprise 버전은 가장 많은 기능을 제공하며, 높은 가용성을 위한 Always On 및 클러스터링 기능, 대규모 데이터베이스를 처리하기 위한 파티셔닝 기능, R 및 Python을 사용한 고급 분석 등을 제공합니다.
+- SQL Server 버전에는 Standard, Enterprise, 및 Express 등이 있습니다. 
+- 이 버전 간의 주요 차이점은 데이터베이스 크기, 높은 가용성 및 보안 기능, 분석 및 비즈니스 인텔리전스 기능 등에 있습니다. 
+- Enterprise 버전은 가장 많은 기능을 제공하며, 높은 가용성을 위한 Always On 및 클러스터링 기능, 대규모 데이터베이스를 처리하기 위한 파티셔닝 기능, R 및 Python을 사용한 고급 분석 등을 제공합니다.
 
 따라서, AWS에서 Windows Server와 SQL Server를 선택할 때는 해당 버전의 기능을 고려하여 선택해야 합니다.
