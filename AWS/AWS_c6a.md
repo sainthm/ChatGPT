@@ -19,3 +19,14 @@
 - c6a 인스턴스에는 다양한 크기와 구성이 있으며, 사용자가 필요에 따라 적절한 인스턴스를 선택할 수 있습니다. 또한 이 인스턴스는 AWS의 다른 서비스와 통합되어 사용자가 원하는 솔루션을 쉽게 개발하고 배포할 수 있도록 지원합니다.
 
 <br>
+
+# Feedback
+
+- [Amazon EC2 C6a 인스턴스 출시 – 3세대 AMD EPYC 프로세서 기반 컴퓨팅 집약적 워크로드용](https://aws.amazon.com/ko/blogs/korea/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/)
+
+<br>
+
+## 요약
+
+- **AMD 프로세서**
+- 가격 대비 성능업
