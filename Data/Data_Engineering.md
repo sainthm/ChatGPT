@@ -2,9 +2,8 @@
 
 ## Question: 
 
-- Data Engineering 에 대한 정의
+- $${\color{red}Data Engineering}$$ 에 대한 정의
 
-$${\color{red}Test}$$
 
 <br>
 
