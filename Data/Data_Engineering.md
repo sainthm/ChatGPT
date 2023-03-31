@@ -2,7 +2,7 @@
 
 ## Question: 
 
-- $${\color{red}Data Engineering}$$ 에 대한 정의
+- **Data Engineering** 에 대한 정의
 
 
 <br>
