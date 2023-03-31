@@ -2,9 +2,9 @@
 
 ## Question: 
 
-- <span style="color:red"> Data Engineering </span>에 대한 정의
+- Data Engineering 에 대한 정의
 
-<span style="color:red"> Data Engineering </span>
+$${\color{red}Test}$$
 
 <br>
 
